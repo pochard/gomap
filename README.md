@@ -1,5 +1,5 @@
 # gomap
-This is a customized type based on map[K]V, adding function GetKeys(). Since Go 1.x doesn't support generics type, only 6 six common pairs of types are supported by the module.
+This module contains a group of customized types based on map[K]V, adding function GetKeys(). Since Go 1.x doesn't support generics type, only 6 six common pairs of types are supported by the module.
 
 Import it in your program as:
 ```go
